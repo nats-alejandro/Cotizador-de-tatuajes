@@ -1,36 +1,39 @@
-# Tattoo Price Calculator – UX/UI Project
+Estimador interactivo de precios de tatuajes diseñado para ayudar a los estudios de tatuaje a entregar cotizaciones más rápidas según las características del tatuaje.
 
-Interactive tattoo price estimator designed to help tattoo studios
-provide faster price estimates based on tattoo characteristics.
+Problema
 
-## Problem
+Los estudios de tatuaje invierten una cantidad significativa de tiempo respondiendo preguntas repetitivas sobre los precios de los tatuajes.
 
-Tattoo studios spend a significant amount of time answering
-repetitive questions about tattoo prices.
+Solución
 
-## Solution
+Una calculadora digital que estima el costo del tatuaje basándose en:
 
-A digital calculator that estimates tattoo cost based on:
+Tamaño del tatuaje
 
-* Tattoo size
-* Tattoo style
-* Body placement
-* Estimated session time
+Estilo del tatuaje
 
-## Prototype
+Ubicación en el cuerpo
 
-Figma prototype:
-https://figma.com/tu-link
+Tiempo estimado de sesión
 
-## Design Process
+Prototipo
 
-1. User flow definition
-2. Wireframes
-3. Interface design
-4. Interactive prototype
+Prototipo en Figma: https://www.figma.com/design/pA0vNC4vu30r6IdM6CWqfW/Cotizador-de-tatuajes-v2?node-id=25-317&t=D7ZNOILz7jYh0xyk-1
 
-## Tools
+Proceso de Diseño
 
-* Figma
-* UX Design
-* UI Design
+Definición del flujo de usuario
+
+Wireframes
+
+Diseño de interfaz
+
+Prototipo interactivo
+
+Herramientas
+
+Figma
+
+Diseño UX
+
+Diseño UI
